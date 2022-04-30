@@ -4,6 +4,7 @@ Minimal clean Docker configuration with PHP 8.1+, NGINX 1.20+, PostgreSQL 14.2+ 
 
 - Based on Alpine Linux.
 - Xdebug and PHPUnit.
+- Doctrine
 - Makefile
 
 ## Prerequisites
