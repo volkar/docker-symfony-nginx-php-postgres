@@ -1,6 +1,4 @@
-# docker-symfony-nginx-php-postgres
-
-Minimal clean Docker configuration with PHP 8.1+, NGINX 1.20+, PostgreSQL 14.2+ and Symfony 6.0 for development.
+# Minimal clean Docker configuration with PHP 8.1+, NGINX 1.20+, PostgreSQL 14.2+ and Symfony 6.0 for development.
 
 - Based on Alpine Linux.
 - Xdebug and PHPUnit.
